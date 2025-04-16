@@ -1,0 +1,23 @@
+VS Code"
+1. install Prettier as a plugin for formatter
+2. ESLint for debug
+
+React Step:
+1. install npm from internet
+2. execute "npx create-react-app <projectName>"
+3. cd to the <projectName>
+(Optional) 3.5 update the package.json 
+(Optional) 4. delete package.json and node_modules
+(Optional) 5. execute "npm install"
+6. execute "npm start"
+
+Github Step:
+1. create a new repository in github account
+2. config your CLI with git login account and password
+-- git config --global user.name 
+-- git config --global user.email
+-- git remote -v
+3. exeucte "git remote add origin <github repo url>"
+4. excute "git add *"
+5. execute "git commit -m '<message>'"
+6. execute "git push -u origin main"
